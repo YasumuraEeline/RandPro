@@ -14,6 +14,7 @@ public class GitMainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_git_main);
         Log.v("test","test");
+        Log.v("test2","test2");
     }
 
 
