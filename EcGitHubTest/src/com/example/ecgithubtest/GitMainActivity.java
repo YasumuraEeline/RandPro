@@ -15,6 +15,7 @@ public class GitMainActivity extends Activity {
         setContentView(R.layout.activity_git_main);
         Log.v("test","test");
         Log.v("test2","test2");
+        Log.v("test3","test3");
     }
 
 
